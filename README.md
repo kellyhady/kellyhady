@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @kellyhady
-- 👀 I’m interested in altruistic user experiences and interfaces
+- 👋 Hi, I’m Kelly
 - 🌱 Currently UI/UX designer at Archdiocese of Vancouver
-- 💞️ Open for collabs
 
 <!---
 kellyhady/kellyhady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
